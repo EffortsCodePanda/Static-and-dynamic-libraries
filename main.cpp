@@ -1,4 +1,4 @@
-#include "DynamicDll.h"
+﻿#include "DynamicDll.h"
 #include <stdio.h>
 #include <iostream>
 #pragma comment(lib,"DynamicDll.lib")
